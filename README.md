@@ -5,6 +5,12 @@ Can you defeat the tyrant and save Luminara?
 
 **Link to project:** https://myfirstgameishere.netlify.app/
 
+
+<div style="height: 200px; overflow: hidden;">
+    <img src="shadow-gif.gif" style="height: auto; width: 100%; object-fit: cover; transform: translateY(-30px);" alt="shadow-gif"/>
+</div>
+
+
 ## How It's Made: 
 
 **Tech used:** HTML, CSS, JavaScript
